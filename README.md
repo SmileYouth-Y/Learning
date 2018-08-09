@@ -6,9 +6,9 @@
  ###### this is an h6 tag
 
 ## Emphasis
- 正常字体
- *italic*
- **bold**
+- 正常字体
+- *italic*
+- **bold**
 
 ## Lists
 ### Unordered
