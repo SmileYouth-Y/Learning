@@ -1,16 +1,16 @@
 # Markdown Notes
 
 ### Headers
-- # this is an h1 tag
-- ### this is an h3 tag
-- ###### this is an h6 tag
+ # this is an h1 tag
+ ### this is an h3 tag
+ ###### this is an h6 tag
 
 ---
 
 ### Emphasis
-- 正常字体
-- *italic*
-- **bold**
+ 正常字体
+ *italic*
+ **bold**
 
 ---
 
