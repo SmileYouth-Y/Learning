@@ -55,6 +55,17 @@ I think you should use an
 `<addr>` element here instead.
 
 ## Syntax highlighting
+
+<pre>
+```javascript
+ function fancyAlert(arg) {
+ if(arg) {
+   $.facebox({div:'#foo'})
+ }
+}
+```
+</pre>
+
 ```javascript
 function fancyAlert(arg) {
   if(arg) {
