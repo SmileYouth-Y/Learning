@@ -1,23 +1,39 @@
 # Markdown Notes
 
-## Headers
- # this is an h1 tag
- ### this is an h3 tag
- ###### this is an h6 tag
+## Headers 
+`#this is an h1 tag` 
+# this is an h1 tag 
+`### this is an h3 tag`
+ ### this is an h3 tag 
+ `###### this is an h6 tag`
+ ###### this is an h6 tag 
 
 ## Emphasis
 - 正常字体
-- *italic*
-- **bold**
+
+
+- `*italic* ` *italic* 
+
+- `**bold**` **bold** 
 
 ## Lists
 ### Unordered
+`* Item 1`
 * Item 1
+``` 
+* Item 2
+  * Item 2.1
+```
 * Item 2
   * Item 2.1
 
 ### Ordered
+`1. Item 1`
 1. Item 1
+```
+1. Item 2
+    1. Item 2.1
+```
 1. Item 2
     1. Item 2.1
 
